@@ -1,8 +1,21 @@
-# React + Vite
+# Anyware Software Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+- Build a user-friendly and interactive web application.
+- Utilize React Query for efficient and flexible data fetching.
+- Create and manage forms with React Hook Form.
+- Style your application with Styled Components for consistent and maintainable CSS.
+- Enhance user experience with toast notifications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies
+
+- React Query: A library for fetching, caching, synchronizing, and updating server state in React applications.
+- Styled Components: A library for styling React components with tagged template literals.
+- React Hook Form: A library for managing form states in React.
+- React: A JavaScript library for building user interfaces.
+- Toast: A library for displaying notifications.
+
+## Contact
+
+If you have any questions or want to get in touch, you can find me on LinkedIn: [in/Ahmed-Ayman](https://www.linkedin.com/in/ahmed-ayman-723605229/)
